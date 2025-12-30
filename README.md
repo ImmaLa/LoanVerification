@@ -1,0 +1,2 @@
+# LoanVerification
+This project demonstrates a loan verification and approval system designed to evaluate loan applications based on key financial and employment criteria. The model predicts the likelihood of a customer being approved for a loan and provides immediate feedback on eligibility. Customers can enter their financial credentials, and the system evaluates their application using predefined thresholds .
