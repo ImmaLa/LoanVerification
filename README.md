@@ -1,21 +1,19 @@
-# Loan Verification
-This project demonstrates a loan verification and approval system designed to evaluate loan applications based on key financial and employment criteria. The model predicts the likelihood of a customer being approved for a loan and provides immediate feedback on eligibility. Customers can enter their financial credentials, and the system evaluates their application using predefined thresholds. The model predicts the likelihood of a customer being approved for a loan and provides immediate feedback on eligibility. Customers can enter their financial credentials, and the system evaluates their application using predefined thresholds or a machine learning–based approach.
-Loan Eligibility Assessment: Evaluates applicants based on credit score, annual income, debt-to-income ratio, down payment, employment status, and years of employment.
+Loan Verification & Approval System
 
-Instant Feedback: Provides immediate approval or denial based on customer inputs.
+Built a loan eligibility prediction system that evaluates applications using financial and employment data to deliver instant approval or denial decisions.
 
-Synthetic Dataset Generation: For testing and model training, the project generates large synthetic datasets simulating realistic loan applications. This dataset includes:
+Key Features
 
-Credit Score
+Assesses applicants based on credit score, income, debt-to-income ratio, employment status, years of employment, down payment, and loan amount
 
-Annual Income
+Provides real-time eligibility feedback
 
-Employment Status
+Generates synthetic loan application data for model training and testing
 
-Years of Employment
+Supports rule-based thresholds and machine learning–based predictions
 
-Down Payment
+Outcome
+Demonstrates how data-driven models can improve loan decision accuracy, reduce manual review, and streamline approval workflows.
 
-Requested Loan Amount
-
-Machine Learning–Based Prediction: Utilizes historical data and applicant features to predict the probability of loan approval or deferral.
+Tools
+Python, Pandas, Scikit-learn
