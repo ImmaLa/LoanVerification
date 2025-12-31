@@ -15,5 +15,5 @@ Supports rule-based thresholds and machine learning–based predictions
 Outcome
 Demonstrates how data-driven models can improve loan decision accuracy, reduce manual review, and streamline approval workflows.
 
-Tools
+Tools:
 Python, Pandas, Scikit-learn
